@@ -5,4 +5,4 @@ Git tracks changes of files.
 ###
 study branch management of Git.
 ###
-Creating a new branch is so quick.
+Creating a new branch is so quick & simple.
